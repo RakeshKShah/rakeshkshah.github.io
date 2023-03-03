@@ -1,2 +1,6 @@
+---
+title-heading: false
+---
+
 Test
 
